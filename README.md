@@ -4,4 +4,4 @@
 📚 Department of Statistics, College of Natural Sciences  
 📫 gusdlgustn@gmail.com  
 🌐 Python, R  
-🔭 ML/DL, Data Science
+🔭 Generative AI, Speech Recognition, Deep Learning, Data Science
